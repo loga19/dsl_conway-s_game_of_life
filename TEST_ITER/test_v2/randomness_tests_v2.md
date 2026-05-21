@@ -1,4 +1,5 @@
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/e3b2ba8f-d89a-4b01-99af-31e3a3eee313" />
+
 Sample size used: 331200
 
 Chi-square test:
